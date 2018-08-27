@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "geolocation": "^0.2.0",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.11.0",
+    "npm": "^6.4.0",
+    "path": "^0.12.7",
+    "request": "^2.87.0",
+    "web-midi-api": "^2.0.1",
+    "xml": "^1.0.1"
+  }
+}
